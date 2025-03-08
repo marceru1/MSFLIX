@@ -113,3 +113,8 @@ p {
     background: var(--cor-btn-hover);
     color: var(--cor-btn-fonte);
 }
+
+.categorias {
+    margin: 70px;
+
+}
